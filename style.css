@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(17, 196, 201);
+  font-family: Arial;
+  font-size: 20px;
+
+}
+ul{
+  list-style: none !important;
+}
+#list{
+  list-style: armenian;
+}
+.button{
+  background-color: white;
+  font-size: 15px;
+  border: none;
+}
