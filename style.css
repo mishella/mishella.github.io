@@ -1,6 +1,7 @@
 body{
-  background-color: rgb(17, 196, 201);
-  font-family: Arial;
-  font-size: 20px;
-
+  background-color: rgb(117, 230, 184);
+  color: rgb(45, 10, 130);
+}
+button{
+  background-color: rgb(217, 242, 13);
 }
