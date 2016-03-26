@@ -1,7 +1,12 @@
-body{
-  background-color: rgb(117, 230, 184);
-  color: rgb(45, 10, 130);
+*{
+  box-sizing: border-box;
 }
-button{
-  background-color: rgb(217, 242, 13);
+
+.main-content{
+  display: block;
+  width:1200px;
+  height: 600px;
+  padding: 50px;
+  margin: 0 auto;
+  background-color: rgb(230, 228, 62);
 }
